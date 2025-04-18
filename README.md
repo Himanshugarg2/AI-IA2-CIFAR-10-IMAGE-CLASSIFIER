@@ -3,7 +3,7 @@
 CNN -- -- CIFAR 10 GOOGLE COLAB NOTEBOOK LINK :- https://colab.research.google.com/drive/1wn_2eTIezKOtEsbz40gvC2SlxoBfTU85?usp=sharing
 
 
-YOLO V8-- COCO2017 GOOGLE COLAB NOTEBOOK LINK :- https://colab.research.google.com/drive/1bMkIGf_K3LDEaZN67ppFSrn2c64u61RZ?usp=sharing
+YOLO V8-- COCO2017 GOOGLE COLAB NOTEBOOK LINK :- https://colab.research.google.com/drive/1wySLNGxK4YCHgkAytzChoQiTSswUdLkE?usp=sharing
 
 CNN MODEL SUMMARY : ![image](https://github.com/user-attachments/assets/7f91c1bb-966a-4421-aa7f-92d8fc2528b7)
 
